@@ -12,7 +12,7 @@ Este proyecto tiene como objetivo implementar una API CRUD que permite realizar 
 
   ## 🌐 Endpoints de la Web API
   ### ProfesorController 🌐
-- **POST** `/api/autenticacion`: Abre seccion dando paso al dashborad.
+- **POST** `/api/autenticacion`: Abre sesion dando paso al dashborad.
   
   ### AlumnoController 🌐
 - **GET** `/api/alumnoProfesor`: Obtiene los alumnos del profesor logueado.
@@ -152,7 +152,7 @@ INSERT INTO [dbo].[matricula]([alumnoId],[asignaturaId]) VALUES(10,4);
 
 Para ver la interfaz de usuario del proyecto, visita el siguiente repositorio de GitHub:
 
-- [Repositorio Front-End](https://github.com/usuario/front-end-repo)
+- [Repositorio Front-End](https://github.com/JonaDevnet/ReactJs-Crud-Web)
 
 
 ## 📝 Licencia
