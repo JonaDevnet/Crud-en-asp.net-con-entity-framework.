@@ -1,0 +1,14 @@
+C:\Users\Jonat\source\repos\AccesoDatos\bin\Debug\net8.0\AccesoDatos.deps.json
+C:\Users\Jonat\source\repos\AccesoDatos\bin\Debug\net8.0\AccesoDatos.runtimeconfig.json
+C:\Users\Jonat\source\repos\AccesoDatos\bin\Debug\net8.0\AccesoDatos.dll
+C:\Users\Jonat\source\repos\AccesoDatos\bin\Debug\net8.0\AccesoDatos.pdb
+C:\Users\Jonat\source\repos\AccesoDatos\obj\Debug\net8.0\AccesoDatos.csproj.AssemblyReference.cache
+C:\Users\Jonat\source\repos\AccesoDatos\obj\Debug\net8.0\AccesoDatos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jonat\source\repos\AccesoDatos\obj\Debug\net8.0\AccesoDatos.AssemblyInfoInputs.cache
+C:\Users\Jonat\source\repos\AccesoDatos\obj\Debug\net8.0\AccesoDatos.AssemblyInfo.cs
+C:\Users\Jonat\source\repos\AccesoDatos\obj\Debug\net8.0\AccesoDatos.csproj.CoreCompileInputs.cache
+C:\Users\Jonat\source\repos\AccesoDatos\obj\Debug\net8.0\AccesoDatos.dll
+C:\Users\Jonat\source\repos\AccesoDatos\obj\Debug\net8.0\refint\AccesoDatos.dll
+C:\Users\Jonat\source\repos\AccesoDatos\obj\Debug\net8.0\AccesoDatos.pdb
+C:\Users\Jonat\source\repos\AccesoDatos\obj\Debug\net8.0\AccesoDatos.genruntimeconfig.cache
+C:\Users\Jonat\source\repos\AccesoDatos\obj\Debug\net8.0\ref\AccesoDatos.dll
